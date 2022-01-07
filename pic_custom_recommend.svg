@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="260px" height="260px" viewBox="0 0 260 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>pic_custom recommend</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.4437934%" y1="10.1291233%" x2="89.3930288%" y2="93.1370192%" id="linearGradient-1">
+            <stop stop-color="#FF4665" offset="0%"></stop>
+            <stop stop-color="#FF8460" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pic_custom-recommend" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="custom-recommend">
+            <circle id="æ¤­åå½¢" fill="url(#linearGradient-1)" cx="130.102941" cy="130.94938" r="130"></circle>
+            <g id="ç¼ç»-3" transform="translate(70.000000, 65.000000)">
+                <path d="M106.016678,9.12190192 L104.730295,1" id="è·¯å¾-4" stroke="#FFC9CA" stroke-width="8" stroke-linecap="round" transform="translate(105.373487, 5.060951) rotate(9.000000) translate(-105.373487, -5.060951) "></path>
+                <path d="M125.016678,16.1219019 L123.730295,8" id="è·¯å¾-4" stroke="#FFC9CA" stroke-width="8" stroke-linecap="round" transform="translate(124.373487, 12.060951) rotate(54.000000) translate(-124.373487, -12.060951) "></path>
+                <path d="M133.15498,32.2385573 L127.730295,27" id="è·¯å¾-4" stroke="#FFC9CA" stroke-width="8" stroke-linecap="round" transform="translate(130.442638, 29.619279) scale(-1, 1) rotate(-44.000000) translate(-130.442638, -29.619279) "></path>
+                <path d="M9.65806648,79.8917814 C3.68718196,73.8626165 -3.33955086e-13,65.5700649 -3.33955086e-13,56.4168127 C-3.33955086e-13,37.9861607 14.9494463,23.0451652 33.3905229,23.0451652 C44.3132238,23.0451652 54.0109819,28.2868038 60.1029412,36.3905708 C66.1949004,28.2868038 75.8926586,23.0451652 86.8153595,23.0451652 C105.256436,23.0451652 120.205882,37.9861607 120.205882,56.4168127 C120.205882,66.0732618 116.102154,74.7717755 109.542602,80.8653807 L69.6060982,120.804894 C64.3553487,126.048491 55.8485215,126.0505 50.5952955,120.809384 L9.64889103,79.8985655 L9.65806648,79.8917814 Z M28.8052232,41.4772438 C26.5711845,39.8541196 23.4443361,40.3493637 21.821212,42.5834025 L18.2945004,47.4375045 C16.6713763,49.6715432 17.1666204,52.7983915 19.4006592,54.4215157 C21.6346979,56.0446398 24.7615462,55.5493957 26.3846704,53.315357 L29.9113819,48.461255 C31.5345061,46.2272163 31.0392619,43.1003679 28.8052232,41.4772438 Z" id="å½¢ç¶ç»å" fill="#FFEFEF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
